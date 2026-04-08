@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5gK/n7FzymcO9USYq33xJOMRhBk=
+		y94Yr0sMkOxiEQgcqGOcrLvYrlI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/zy_multicompany_lib_ui_ios.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		TPr1KWN8afyKJhW0z7NokvCmlqI=
+		MhfwzkWGJ0qr49CNPHUqjWqlO/8=
 		</data>
 		<key>Modules/zy_multicompany_lib_ui_ios.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		85bZN5HyZXBnpdpceeKm44ASQ9I=
+		gdwohT15ZVtDd19TOV2bDFZuZZI=
 		</data>
 		<key>Modules/zy_multicompany_lib_ui_ios.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -96,14 +96,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hAhj5w+7iY1RUOyP+6ZEBf/YxgZ9zwmRrhsMrdN1w7s=
+			sJXfOeLYF2Dn7+AS4g6RZMpQS7yAncXR8WWdLi5xXEY=
 			</data>
 		</dict>
 		<key>Modules/zy_multicompany_lib_ui_ios.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NlGkrLWk4e5a69pADmh/P/QKMXuNxUXbT+Bn3wrh1D4=
+			aYWbzJwD9tXYsoFlPxPEZ14oqFkY3qC0r8lu80tE4os=
 			</data>
 		</dict>
 		<key>Modules/zy_multicompany_lib_ui_ios.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
