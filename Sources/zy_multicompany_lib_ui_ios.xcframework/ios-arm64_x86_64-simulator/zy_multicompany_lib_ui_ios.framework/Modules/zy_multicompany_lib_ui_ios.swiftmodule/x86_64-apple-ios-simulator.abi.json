@@ -6632,6 +6632,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "zy_multicompany_lib_ui_ios",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -9836,6 +9846,13 @@
       "value": "\"ZyUIIndicatorInfoMultiFacialView\""
     },
     {
+      "filePath": "\/Users\/jsaenz\/Documents\/Proyectos\/Multiempresa\/zy_multicompany_ui_lib_ios\/zy_multicompany_lib_ui_ios\/Classes\/View\/UIView\/ZyUIIndicatorInfoMultiOcrView.swift",
+      "kind": "StringLiteral",
+      "offset": 182,
+      "length": 31,
+      "value": "\"ZyUIIndicatorInfoMultiOcrView\""
+    },
+    {
       "filePath": "\/Users\/jsaenz\/Documents\/Proyectos\/Multiempresa\/zy_multicompany_ui_lib_ios\/zy_multicompany_lib_ui_ios\/Classes\/View\/UIView\/ZyUIIndicatorInfoOcrView.swift",
       "kind": "StringLiteral",
       "offset": 183,
@@ -9908,7 +9925,7 @@
     {
       "filePath": "\/Users\/jsaenz\/Documents\/Proyectos\/Multiempresa\/zy_multicompany_ui_lib_ios\/zy_multicompany_lib_ui_ios\/Classes\/ZyUIStepsView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2439,
+      "offset": 2511,
       "length": 1,
       "value": "9"
     }
