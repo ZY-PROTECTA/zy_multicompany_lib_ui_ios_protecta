@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'zy_multicompany_lib_ui_ios_protecta'
-    s.version          = '1.0.3'
+    s.version          = '1.0.4'
     s.summary          = 'Libreria UI Proyecto de biometría PROTECTA.'
     
     # This description is used to generate tags and improve search results.
